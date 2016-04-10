@@ -7,8 +7,8 @@
  '(c-basic-offset 4)
  '(c-default-style
    (quote
-    ((c-mode . "bsd")
-     (c++-mode . "bsd")
+    ((c-mode . "k&r")
+     (c++-mode . "stroustrup")
      (java-mode . "java")
      (awk-mode . "awk")
      (other . "gnu"))))
@@ -24,4 +24,4 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(default ((t (:inherit nil :height 180 :family "Inconsolata")))))
+ '(default ((t (:inherit nil :height 150 :family "Inconsolata")))))
