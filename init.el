@@ -1,3 +1,2 @@
-; Keep customize settings in a separate file
-(setq custom-file "~/.emacs.d/custom.el")
-(load custom-file)
+(package-initialize)
+(org-babel-load-file "~/.emacs.d/preferences.org")
