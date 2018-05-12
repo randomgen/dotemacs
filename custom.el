@@ -20,6 +20,7 @@
  '(indent-tabs-mode nil)
  '(make-backup-files nil)
  '(ns-right-alternate-modifier nil)
+ '(org-adapt-indentation nil)
  '(tab-width 4)
  '(tool-bar-mode nil))
 (custom-set-faces
