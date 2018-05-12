@@ -14,7 +14,6 @@
      (other . "gnu"))))
  '(column-number-mode t)
  '(fill-column 79)
- '(global-whitespace-mode t)
  '(indent-tabs-mode nil)
  '(ns-right-alternate-modifier nil)
  '(tab-width 4)
