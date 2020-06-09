@@ -15,6 +15,7 @@
  '(fill-column 79)
  '(indent-tabs-mode nil)
  '(make-backup-files nil)
+ '(menu-bar-mode nil)
  '(ns-right-alternate-modifier nil)
  '(org-adapt-indentation nil)
  '(package-archives
