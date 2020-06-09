@@ -21,6 +21,10 @@
  '(make-backup-files nil)
  '(ns-right-alternate-modifier nil)
  '(org-adapt-indentation nil)
+ '(package-archives
+   (quote
+    (("melpa-stable" . "https://stable.melpa.org/packages/")
+     ("gnu" . "https://elpa.gnu.org/packages/"))))
  '(tab-width 4)
  '(tool-bar-mode nil))
 (custom-set-faces
