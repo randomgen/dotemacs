@@ -15,12 +15,6 @@ Modify settings using =customize= whenever possible.
 (server-start)
 #+END_SRC
 
-** Mode Line
-
-#+BEGIN_SRC emacs-lisp
-(powerline-default-theme)
-#+END_SRC
-
 * Key Bindings
 
 ** Git
