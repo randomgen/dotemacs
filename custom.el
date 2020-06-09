@@ -12,10 +12,6 @@
      (awk-mode . "awk")
      (other . "gnu"))))
  '(column-number-mode t)
- '(custom-enabled-themes (quote (leuven)))
- '(custom-safe-themes
-   (quote
-    ("9a155066ec746201156bb39f7518c1828a73d67742e11271e4f24b7b178c4710" default)))
  '(fill-column 79)
  '(indent-tabs-mode nil)
  '(make-backup-files nil)
