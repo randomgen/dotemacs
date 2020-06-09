@@ -25,6 +25,7 @@
    (quote
     (("melpa-stable" . "https://stable.melpa.org/packages/")
      ("gnu" . "https://elpa.gnu.org/packages/"))))
+ '(package-selected-packages (quote (helm helm-projectile magit projectile)))
  '(tab-width 4)
  '(tool-bar-mode nil))
 (custom-set-faces
