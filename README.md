@@ -3,5 +3,5 @@
 ## Installation
 
 ```
-git clone git@github.com:randomgen/dotemacs.git ~/.emacs.d
+git clone https://github.com/randomgen/dotemacs.git ~/.emacs.d
 ```
